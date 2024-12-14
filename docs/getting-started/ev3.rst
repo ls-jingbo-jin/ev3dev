@@ -39,7 +39,8 @@ Installing Ev3dev
 
 Ev3dev is distributed as a disk image that is flashed to your microSD card.
 
-1. Download and install `Etcher <https://etcher.io/>`_.
+1. Download and install `Etcher v17 <https://github.com/balena-io/etcher/releases/tag/v1.17.0>`_.
+   Newer versions are broken and don't work with the ev3dev image!
 2. Download the latest ev3dev image for LEGO MINDSTORMS EV3 from the
    `ev3dev downloads page <http://www.ev3dev.org/downloads>`_.
 
